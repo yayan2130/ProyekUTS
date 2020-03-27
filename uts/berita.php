@@ -32,7 +32,7 @@
       		<img src="faker.png" height="200">
       		<p>Tahukah kamu?</p>
       		<p>Mid laner dan kapten bintang T1 Lee "Faker" Sang-hyeok adalah orang berikutnya yang menyumbangkan sejumlah besar uang kepada organisasi yang memerangi wabah coronavirus (COVID-19) di Cina. Pada hari Senin, Faker meng-tweet bahwa ia telah menyumbang sekitar $ 25.000 (30 juta KRW) untuk Community Chest of Korea nirlaba organisasi</p>
-      		<a href="https://web.whatsapp.com/">more</a>
+      		<a href="berita-1.html">more</a>
     </div>
 </div>
 </body>
