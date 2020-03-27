@@ -1,8 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PENDAFTARAN</title>
+	<title>BERITA</title>
 	<link rel="stylesheet" type="text/css" href="utscss.css">
+	<meta charset="UTF-8">
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("a").click(function () {
+                alert("selamat datang di website facebook");
+            });
+        });
+    </script>
 </head>
 <body>
 
@@ -23,7 +32,7 @@
       		<img src="faker.png" height="200">
       		<p>Tahukah kamu?</p>
       		<p>Mid laner dan kapten bintang T1 Lee "Faker" Sang-hyeok adalah orang berikutnya yang menyumbangkan sejumlah besar uang kepada organisasi yang memerangi wabah coronavirus (COVID-19) di Cina. Pada hari Senin, Faker meng-tweet bahwa ia telah menyumbang sekitar $ 25.000 (30 juta KRW) untuk Community Chest of Korea nirlaba organisasi</p>
-      		<a href="berita-1.html">more</a>
+      		<a href="https://web.whatsapp.com/">more</a>
     </div>
 </div>
 </body>
